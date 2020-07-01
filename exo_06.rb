@@ -6,4 +6,4 @@ puts "Travail : #{number_of_hours_worked_per_day * number_of_days_worked_per_wee
 
 puts "Et en minutes ça fait : #{number_of_minutes_in_an_hour * number_of_hours_worked_per_day * number_of_days_worked_per_week * number_of_weeks_in_THP}"
 
-# ruby affiche une erreur car la variable number_of_minutes_in_an_hour n'a pas été définie. Ruby ne peut donc pas faire le calcul demandé
+# ruby affiche une erreur car la variable 'number_of_minutes_in_an_hour' n'a pas été définie. Ruby ne peut donc pas faire le calcul demandé
