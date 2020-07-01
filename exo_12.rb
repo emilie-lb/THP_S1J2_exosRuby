@@ -10,6 +10,5 @@ if user_number>=0
 else
 	(user_number.abs+1).times do |i|
 		puts -i
-		i += 1
 	end
 end
